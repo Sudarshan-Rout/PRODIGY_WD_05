@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../flifcart_Clone-main"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "WeatherApplication-main"
+	}
+}
